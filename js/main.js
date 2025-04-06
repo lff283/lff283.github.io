@@ -343,8 +343,8 @@ window.addEventListener('load', function () {
         if (window.innerWidth <= 990) {
             //移动端隐藏更多页面
             $('#container').attr('class', 'container');
-            $("#change").html("Hello&nbsp;World&nbsp;!");
-            $("#change1").html("一个建立于 21 世纪的小站!");
+            $("#change").html("你好&nbsp;今天&nbsp;!");
+            $("#change1").html("活力宝の小窝");
 
             //移动端隐藏弹窗页面
             $('#box').css("display", "none");

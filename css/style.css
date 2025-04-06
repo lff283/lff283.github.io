@@ -181,7 +181,7 @@ main {
 
 .row.rightone {
     display: flex;
-    align-items: flex-end;
+    align-items: center;
 }
 
 /*头像*/

@@ -1,1 +1,0 @@
-<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/K8pLq0xNJlWXV6Si/quote.js?theme=1&col=true&f=12&badge=icon_0&icon=right"></script>

@@ -1,5 +1,9 @@
 简体中文 | [English](./README_EN.md)
-
+<p>
+数据拷贝自:github.com/imsyy
+实例网站:https://imsyy.top
+尊重原创.致敬原创.
+</p>
 <p>
 <strong><h2>無名の主页</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
